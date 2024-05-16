@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/benefits-search/static/css/main.05e8095b.css",
+    "main.js": "/benefits-search/static/js/main.7a3c03fc.js",
+    "static/js/453.a502cb28.chunk.js": "/benefits-search/static/js/453.a502cb28.chunk.js",
+    "index.html": "/benefits-search/index.html",
+    "main.05e8095b.css.map": "/benefits-search/static/css/main.05e8095b.css.map",
+    "main.7a3c03fc.js.map": "/benefits-search/static/js/main.7a3c03fc.js.map",
+    "453.a502cb28.chunk.js.map": "/benefits-search/static/js/453.a502cb28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05e8095b.css",
+    "static/js/main.7a3c03fc.js"
+  ]
+}
